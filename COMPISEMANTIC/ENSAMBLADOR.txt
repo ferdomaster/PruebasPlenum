@@ -1,0 +1,8 @@
+1   mov BX, A
+2   add BX, B
+3   mov A, BX
+4   CICLO1:
+8   mov B, B
+8   mov AX, A
+9   CMP AX, B
+10   JL CICLO1
