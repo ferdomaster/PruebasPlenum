@@ -28,6 +28,7 @@ public class Errorsem {
     
      public Errorsem(ArrayList<String> guardar2,ArrayList<String> guardar4,ArrayList<String> guardar5,int p,String a,int h,int b){
         this.guardar2=guardar2;
+        this.guardar3=guardar3;
         this.guardar4=guardar4;
         this.guardar5=guardar5;
         this.p=p;
