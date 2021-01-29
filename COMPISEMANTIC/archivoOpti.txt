@@ -1,9 +1,0 @@
-A = A + B ;
-
-do
-{
-A = A * 5 + C; B = B ;
-B = B ;
-
-}
-while  ( A <  B )
