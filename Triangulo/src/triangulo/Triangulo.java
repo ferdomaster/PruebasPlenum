@@ -26,7 +26,7 @@ public class Triangulo {
      */
     public static void main(String[] args) throws FileNotFoundException, IOException {
         Scanner f = new Scanner(System.in);
-        String ruta = "C:/Users/f-er9/OneDrive/Documents/Triangulo.txt";
+        String ruta = "Triangulo.txt";
         File archivo = new File(ruta);
         BufferedWriter bw;
         BufferedReader br;
